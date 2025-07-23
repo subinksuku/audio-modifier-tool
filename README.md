@@ -1,7 +1,5 @@
 # Audio Modifier Web Tool
 
-![Audio Modifier Screenshot](https://placehold.co/800x450/1f2937/C:\Users\subin\Pictures\Screenshots\Screenshot2025-07-23145408.png)
-
 A simple, browser-based tool for creatively transforming audio files. This application allows users to upload an audio track and apply various real-time effects, perfect for producers, content creators, and anyone looking to experiment with sound. The goal is to provide an intuitive interface for altering audio characteristics, which can help in creating unique, royalty-free-like sounds from existing tracks.
 
 **Live Demo:** [Link to your live GitHub Pages site here]
@@ -47,23 +45,6 @@ This project is built entirely with front-end technologies, running completely i
 
 ---
 
-## 💻 Running Locally
-
-To run this project on your local machine:
-
-1.  **Clone the repository:**
-    ```sh
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    ```
-2.  **Navigate to the project directory:**
-    ```sh
-    cd your-repo-name
-    ```
-3.  **Open the `index.html` file:**
-    - Simply open the `index.html` file in your web browser of choice (like Chrome, Firefox, or Edge).
-    - For the best experience and to avoid potential local file access issues, it's recommended to use a simple live server extension (like "Live Server" for VS Code).
-
----
 
 ## ⚖️ Disclaimer
 
