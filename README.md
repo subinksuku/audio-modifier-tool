@@ -1,6 +1,6 @@
 # Audio Modifier Web Tool
 
-![Audio Modifier Screenshot](https://placehold.co/800x450/1f2937/e5e7eb?text=Add+a+Screenshot+of+Your+App+Here)
+![Audio Modifier Screenshot](https://placehold.co/800x450/1f2937/C:\Users\subin\Pictures\Screenshots\Screenshot2025-07-23145408.png)
 
 A simple, browser-based tool for creatively transforming audio files. This application allows users to upload an audio track and apply various real-time effects, perfect for producers, content creators, and anyone looking to experiment with sound. The goal is to provide an intuitive interface for altering audio characteristics, which can help in creating unique, royalty-free-like sounds from existing tracks.
 
